@@ -1,0 +1,1 @@
+# cosmico-auto-editor
